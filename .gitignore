@@ -1,0 +1,61 @@
+# ROS 2 & Colcon
+build/
+install/
+log/
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# C/C++
+*.o
+*.so
+*.a
+*.dylib
+*.lib
+*.dll
+*.exe
+*.out
+*.DS_Store
+*.stackdump
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+
+# Gazebo logs
+*.log
+**/*gazebo_log_*
+
+# IDE & Editor specific
+.vscode/
+.idea/
+*.swp
+*~
+nbproject/
+
+# User-specific files
+*.user
+*.DS_Store
+
+# Backup files
+*.bak
+
+# Media (if you only want to track specific media files, list them negatively)
+# For example, if you have very large raw video files you don't want to track:
+# media/raw_videos/
+
+# Specific to this project (if any temporary files are generated)
