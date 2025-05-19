@@ -54,8 +54,4 @@ nbproject/
 # Backup files
 *.bak
 
-# Media (if you only want to track specific media files, list them negatively)
-# For example, if you have very large raw video files you don't want to track:
-# media/raw_videos/
 
-# Specific to this project (if any temporary files are generated)
